@@ -1,4 +1,13 @@
--  👋 Hi, I’m @Diego Vicente Pereira
+## -  👋 Bem vindo(a) ao meu gitHub!
+      Meu nome é Diego Vicente Pereira.
+      Estudante de Análise e Desenvolvimento de Sistemas e entusiasta em tecnologia.
+      Tenho vontade e determinação para aprender , evoluir e me aperfeiçoar, 
+      gosto de encarar desafios e procuro uma oportunidade como desenvolvedor no mercado de trabalho, na área de TI.
+   
+   <h3>Futuro Full Stack developer.</h3>
+    
+
+
 ##
 <div align="center">
   <a href="https://github.com/DiegoVP66">
@@ -19,7 +28,8 @@
   
   ##
  <div>
-  <a href="https://www.linkedin.com/in/diego-vicente-pereira-212647212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-  badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/diego-vicente-pereira-212647212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href = "mailto:vp.diego28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
    ![Snake animation](https://github.com/diegovp66/diegovp66/blob/output/github-contribution-grid-snake.svg)
  </div>
