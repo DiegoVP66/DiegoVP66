@@ -2,9 +2,17 @@
       Meu nome é Diego Vicente Pereira.
       Estudante de Análise e Desenvolvimento de Sistemas e entusiasta em tecnologia.
       Tenho vontade e determinação para aprender , evoluir e me aperfeiçoar, 
-      gosto de encarar desafios e procuro uma oportunidade como desenvolvedor no mercado de trabalho, na área de TI.
+      gosto de encarar desafios e procuro uma oportunidade no mercado de trabalho, como desenvolvedor na área de TI.
+      
+## -  👋 Welcome to my gitHub!
+      My name is Diego Vicente Pereira.
+      I'm a student of analysis and systems development, and a tech enthusiast.
+      I have the will and determination to learn , evolve and improve myself, 
+      I also like to face challenges and i'm looking for an opportunity in the job market, as a IT developer.
+      
    
-   <h3>Futuro Full Stack developer.</h3>
+   <h3>Futuro/Future Full Stack developer.</h3>
+    
     
 
 
