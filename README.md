@@ -8,7 +8,7 @@
       My name is Diego Vicente Pereira.
       I'm a student of analysis and systems development, and a tech enthusiast.
       I have the will and determination to learn , evolve and improve myself, 
-      I also like to face challenges and i'm looking for an opportunity in the job market, as a IT developer.
+      I also like to face challenges and i'm looking for an opportunity in the job market, as an IT developer.
       
    
    <h3>Futuro/Future Full Stack developer.</h3>
