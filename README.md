@@ -1,79 +1,149 @@
-## 👋 Bem-vindo(a) ao meu GitHub!
+<h1 align="center">👋 Diego Vicente Pereira</h1>
 
-Meu nome é **Diego Vicente Pereira**.  
-Sou desenvolvedor backend com foco em **Java**, atuando na construção de aplicações escaláveis, resilientes e de alto desempenho.
+<p align="center">
+  <strong>Backend Developer | Java | Microservices | Cloud</strong>
+</p>
 
-Tenho experiência prática com **Spring Boot** e **Quarkus**, desenvolvendo APIs REST robustas e aplicando boas práticas de arquitetura de software.
-
-Atuo com:
-- Arquitetura de microserviços  
-- Integração entre sistemas e APIs  
-- Arquitetura orientada a eventos com Kafka  
-- Serviços em nuvem (AWS – S3, Rekognition)  
-
-Participei do desenvolvimento do backend da **Carteira de Identidade Nacional (CIN)** do Brasil, trabalhando com microserviços e processamento biométrico.
-
-Estou sempre buscando evoluir tecnicamente e contribuir com soluções de alto impacto.
+<p align="center">
+  Backend developer focused on building scalable APIs, microservices architecture, and high-performance systems.
+</p>
 
 ---
 
-## 👋 Welcome to my GitHub!
+## 🧠 About Me
 
-My name is **Diego Vicente Pereira**.  
-I'm a backend developer focused on **Java**, building scalable, resilient, and high-performance applications.
+I'm a backend developer focused on **Java**, with hands-on experience building applications using **Spring Boot** and **Quarkus**.
 
-I have hands-on experience with **Spring Boot** and **Quarkus**, developing robust REST APIs and applying software architecture best practices.
+I work on developing **robust and scalable REST APIs**, applying software architecture best practices to ensure performance, maintainability, and code quality.
 
-My experience includes:
+💡 Experience with:
 - Microservices architecture  
-- API integrations  
-- Event-driven architecture with Kafka  
+- Event-driven architecture (Kafka)  
+- System and API integrations  
 - Cloud services (AWS – S3, Rekognition)  
 
-I also contributed to the backend development of Brazil’s **National Identity Card (CIN)** system, working with microservices and biometric processing.
-
-I’m constantly improving my skills and aiming to build impactful systems.
-
----
-
-## 🚀 Backend Developer | Java | Microservices | Cloud
-
-<div align="center">
-  <a href="https://github.com/diegovp66">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegovp66&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegovp66&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+🏛️ Highlight:
+> Contributed to the backend development of Brazil’s **National Identity Card (CIN)** system, working with microservices and biometric processing.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## ⚙️ Main Stack
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Quarkus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg">
-  <img align="center" alt="Kafka" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,aws,kafka,postgres,mysql,git,ts,angular&theme=dark" />
+</p>
 
 ---
 
-## 📫 Contato
+## 🧩 Technologies & Tools
 
-<div>
-  <a href="https://www.linkedin.com/in/diego-vicente-pereira-212647212/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-  <a href="mailto:vp.diego28@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+<table align="center">
+<tr>
+<td align="center" width="200">
+
+### 👨‍💻 Backend
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="45"/><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="45"/><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg" height="45"/>
+
+</td>
+
+<td align="center" width="200">
+
+### 🔗 Architecture
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" height="45"/><br>
+<strong>Event Driven</strong>
+
+</td>
+
+<td align="center" width="200">
+
+### ☁️ Cloud
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="55"/><br>
+AWS
+
+</td>
+
+<td align="center" width="200">
+
+### 🐳 DevOps
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="45"/><br>
+Docker
+
+</td>
+
+</tr>
+
+<tr>
+<td align="center">
+
+### 💾 Databases
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="45"/>
+
+</td>
+
+<td align="center">
+
+### 🌐 Frontend
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="45"/>
+
+</td>
+
+<td align="center">
+
+### 🧰 Tools
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" height="45"/>
+
+</td>
+
+<td align="center">
+
+### ⚙️ Automation
+<img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" height="45"/><br>
+n8n
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=diegovp66&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegovp66&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diegovp66&theme=tokyo-night"/>
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/diego-vicente-pereira-212647212/">
+    <img src="https://img.shields.io/badge/LinkedIn-Diego%20Vicente%20Pereira-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-</div>
+  <a href="mailto:vp.diego28@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 
 ---
 
-## 📊 Atividade
+## 🚀 Goal
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diegovp66&theme=tokyo-night)
+Continuously grow as a backend developer, contributing to the design and development of scalable, distributed, and high-impact systems.
+
+---
