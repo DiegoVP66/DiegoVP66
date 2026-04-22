@@ -1,47 +1,79 @@
-## -  👋 Bem vindo(a) ao meu gitHub!
-      Meu nome é Diego Vicente Pereira.
-      Estudante de Análise e Desenvolvimento de Sistemas e entusiasta em tecnologia.
-      Tenho vontade e determinação para aprender , evoluir e me aperfeiçoar, 
-      gosto de encarar desafios e procuro uma oportunidade no mercado de trabalho, como desenvolvedor na área de TI.
-      
-## -  👋 Welcome to my gitHub!
-      My name is Diego Vicente Pereira.
-      I'm a student of analysis and systems development, and a tech enthusiast.
-      I have the will and determination to learn , evolve and improve myself, 
-      I also like to face challenges and i'm looking for an opportunity in the job market, as an IT developer.
-      
-   
-   <h3>Futuro/Future Full Stack developer.</h3>
-    
-    
+## 👋 Bem-vindo(a) ao meu GitHub!
 
+Meu nome é **Diego Vicente Pereira**.  
+Sou desenvolvedor backend com foco em **Java**, atuando na construção de aplicações escaláveis, resilientes e de alto desempenho.
 
-##
+Tenho experiência prática com **Spring Boot** e **Quarkus**, desenvolvendo APIs REST robustas e aplicando boas práticas de arquitetura de software.
+
+Atuo com:
+- Arquitetura de microserviços  
+- Integração entre sistemas e APIs  
+- Arquitetura orientada a eventos com Kafka  
+- Serviços em nuvem (AWS – S3, Rekognition)  
+
+Participei do desenvolvimento do backend da **Carteira de Identidade Nacional (CIN)** do Brasil, trabalhando com microserviços e processamento biométrico.
+
+Estou sempre buscando evoluir tecnicamente e contribuir com soluções de alto impacto.
+
+---
+
+## 👋 Welcome to my GitHub!
+
+My name is **Diego Vicente Pereira**.  
+I'm a backend developer focused on **Java**, building scalable, resilient, and high-performance applications.
+
+I have hands-on experience with **Spring Boot** and **Quarkus**, developing robust REST APIs and applying software architecture best practices.
+
+My experience includes:
+- Microservices architecture  
+- API integrations  
+- Event-driven architecture with Kafka  
+- Cloud services (AWS – S3, Rekognition)  
+
+I also contributed to the backend development of Brazil’s **National Identity Card (CIN)** system, working with microservices and biometric processing.
+
+I’m constantly improving my skills and aiming to build impactful systems.
+
+---
+
+## 🚀 Backend Developer | Java | Microservices | Cloud
+
 <div align="center">
-  <a href="https://github.com/DiegoVP66">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegovp66&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegovp66&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/diegovp66">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegovp66&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegovp66&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Diego-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Diego-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
- </div>
-  
-  ##
- <div>
-  <a href="https://www.linkedin.com/in/diego-vicente-pereira-212647212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href = "mailto:vp.diego28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   
-   ![Snake animation](https://github.com/diegovp66/diegovp66/blob/output/github-contribution-grid-snake.svg)
- </div>
-  
-  
-  
-  
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Quarkus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg">
+  <img align="center" alt="Kafka" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+
+---
+
+## 📫 Contato
+
+<div>
+  <a href="https://www.linkedin.com/in/diego-vicente-pereira-212647212/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="mailto:vp.diego28@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
+
+---
+
+## 📊 Atividade
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diegovp66&theme=tokyo-night)
